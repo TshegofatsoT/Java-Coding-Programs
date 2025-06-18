@@ -2,7 +2,6 @@ package com.mycompany.scannerinput;
 
 import java.util.Scanner;
 
-
 public class ScannerInput {
 
     public static void main(String[] args) {
