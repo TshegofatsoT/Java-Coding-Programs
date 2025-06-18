@@ -1,14 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
 package com.mycompany.assessment_task_tshegofatso;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Tshegofatso Thapedi
- */
 public class Assessment_Task_Tshegofatso {
 
     public static void main(String[] args) {
