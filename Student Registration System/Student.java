@@ -1,3 +1,6 @@
+/*The Student class inherits from the base class called Person. 
+The Student class  will also display the StudentID and Course name.
+The class will also display information from the Person class*/
 
 package com.mycompany.studentregistrationsystem;
 
