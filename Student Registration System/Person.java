@@ -1,3 +1,7 @@
+/*This is the base class to store a persons Name and Age. 
+The class has a get method for name and age. 
+The class also has a display method to display the name 
+and age.*/
 
 package com.mycompany.studentregistrationsystem;
 
